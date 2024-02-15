@@ -1,7 +1,2 @@
-API
-===
+Postgres
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
